@@ -1,12 +1,22 @@
 
 <h1 align="center">Hi 👋, I'm Ayesha Khatoon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshakhatoon17&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshakhatoon17" /> </p>
+<h4 align="center">Welcome to my Github! I'm a Chaos Engineering Student, majoring in IT stream. Currently learning which scares me the most Back-end 😥 and which i like the most French ❤️. I enjoy talking to new people 🗣️.</h4>
+ 
+<br>
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
 
-- 🌱 I’m currently learning **Web development**
+- 🔭 I’m currently working on **Myself**
 
 - 📫 How to reach me **ayeshaakhatoon.ak@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🤔 I’m looking for help with **Eveything**
+
+- 💬 Ask me about **How i waste my time**
+
+- ⚡ Fun fact: **I don't like sweets**
+
+
 <p align="left">
 </p>
 
@@ -15,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshakhatoon17&show_icons=true&locale=en&layout=compact" alt="ayeshakhatoon17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshakhatoon17&show_icons=true&locale=en" alt="ayeshakhatoon17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshakhatoon17&" alt="ayeshakhatoon17" /></p>
