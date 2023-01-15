@@ -12,8 +12,6 @@
 
 - 🤔 I’m looking for help with **Eveything**
 
-- 💬 Ask me about **How i waste my time**
-
 - ⚡ Fun fact: **I don't like sweets**
 
 
