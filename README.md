@@ -10,11 +10,11 @@
 
 
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **ReactJS**
 
 - 📫 How to reach me **ayeshaakhatoon.ak@gmail.com**
 
-- 🤔 I’m looking for help with **Eveything**
+- 🤔 I’m looking for help with **ReactJS**
 
 - ⚡ Fun fact: **I don't like sweets**
 
