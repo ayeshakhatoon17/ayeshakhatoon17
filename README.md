@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshakhatoon17&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshakhatoon17" /> </p>
 
-<h4 align="center">Welcome to my Github! I'm a Chaos Engineering Student, majoring in IT stream. Currently learning Full Stack and French. I enjoy talking to new people.</h4>
+<h4 align="center">Welcome to my Github! I'm a Chaos Engineering Student, majoring in IT stream. Currently learning Full Stack and French. I enjoy talking to people about tech and projects they've created.</h4>
 
 <br>
 <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"></p>
